@@ -81,7 +81,16 @@ body {
 }
 
 .navfont {
+	font-size: 8pt;
+}
+
+.navcap {
 	font-size: 9pt;
+}
+
+.navcenter {
+	text-align: center;
+	font-size: 8pt;
 }
 
 .rubric {
