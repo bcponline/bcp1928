@@ -1,5 +1,7 @@
 body {
-	font-family: "Janson SSI", "Baskerville", "Garamond", serif;
+	font-family: "Janson SSI", "Cantata One", "Baskerville", "Garamond", serif;
+	//font-family: "Cantata One", "Faustina", "Playfair Display", "Domine", "Amiri", "Janson SSi", "Libre Baskerville", "Garamond", serif;
+	//font-family: "Janson SSI", "Baskerville", "Garamond", serif;
 	color: #000000;
 	background-color:  #FFFFFF;
 }
@@ -74,7 +76,7 @@ body {
 }
 
 .navbody {
-	font-family: "Janson SSI", "Baskerville", "Garamond", serif;
+	font-family: "Janson SSi", "Libre Baskerville", "Garamond", serif;
 	background-color: #82AEBF;
 }
 
