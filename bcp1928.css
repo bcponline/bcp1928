@@ -86,6 +86,16 @@ body {
 	vertical-align: bottom;
 }
 
+.tocleft {
+	font-size:8pt;
+}
+
+.tocright {
+	font-size: 8pt;
+	vertical-align: bottom;
+	align: right;
+}
+
 .caltable {
 	border: none;
 	width: 50%;
