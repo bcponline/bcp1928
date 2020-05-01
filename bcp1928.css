@@ -93,7 +93,7 @@ body {
 .tocright {
 	font-size: 8pt;
 	vertical-align: bottom;
-	align: right;
+	text-align: right;
 }
 
 .caltable {
