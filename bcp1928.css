@@ -9,10 +9,11 @@ body {
 .title {
 	font-size: 300%;
 	font-weight: bold;
+	font-align: center;
 }
 
 
-.bigtitle {
+.toctitle {
 	font-size: 300%;
 	font-weight: bold;
 }
@@ -58,23 +59,6 @@ body {
 	font-size: xx-large;
 }
 
-.leftfoot {
-	text-align: left;
-}
-
-.rightfoot {
-	text-align: right;
-}
-
-.topmenu {
-	text-align: center;
-	font-size: x-small;
-}
-
-#heading {
-	font-size: 200%;
-}
-
 .navbody {
 	font-family: "Janson SSI", "Cantata One", "Baskerville", "Garamond", serif;
 	background-color: #82AEBF;
@@ -93,9 +77,28 @@ body {
 	font-size: 8pt;
 }
 
+.toctable {
+	border: none;
+	width: 40%;
+	font-size: 8pt;
+	table-layout: auto;
+	border-collapse: collapse;
+	vertical-align: bottom;
+}
+
+.caltable {
+	border: none;
+	width: 50%;
+	font-size: 8pt;
+	table-layout: auto;
+	border-collapse: collapse;
+	vertical-align: text-bottom;
+}
+
 .rubric {
 	font-size: small;
 	font-style: italic;
+	font-align: center;
 }
 
 .rubrictable {
@@ -237,14 +240,6 @@ body {
 	font-size: small;
 	font-style: italic;
 	vertical-align: top;
-}
-
-.caltable {
-	border: none;
-	width: 50%;
-	font-size: small;
-	table-layout: auto;
-	border-collapse: collapse;
 }
 
 .nctable {
