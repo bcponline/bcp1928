@@ -4,6 +4,7 @@ body {
 	//font-family: "Janson SSI", "Baskerville", "Garamond", serif;
 	color: #000000;
 	background-color:  #FFFFFF;
+	//text-align: center;
 }
 
 .title {
@@ -61,6 +62,7 @@ body {
 .navbody {
 	font-family: "Janson SSI", "Cantata One", "Baskerville", "Garamond", serif;
 	background-color: #82AEBF;
+	text-align: left;
 }
 
 .navfont {
@@ -93,6 +95,51 @@ body {
 	font-size: 8pt;
 	vertical-align: bottom;
 	text-align: right;
+}
+
+.certtable {
+	//border: none;
+	//table-layout: fixed;
+	//border-collapse: collapse;
+	width: 30.5%;
+	margin-left: auto;
+	margin-right: auto;
+
+2
+}
+
+.certtitle {
+	font-size: 1.1em;
+	text-align: center;
+}
+
+.certjustify {
+	text-align: justify;
+	font-size: small;
+}
+
+.certright {
+	text-align: right;
+	font-size: small;
+}
+
+.drop-cap:first-letter {
+    font-size: 2.6em;
+    float: left;
+    margin-top: -.15em;
+    margin-right: .15em;
+    margin-bottom: -.15em;
+}
+
+.certblock {
+	font-size: small;
+	text-align: justify;
+}
+
+.certfoot {
+	font-size: .5em
+	font-style: italic
+	text-align: center;
 }
 
 .caltable {
