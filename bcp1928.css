@@ -4,7 +4,7 @@ body {
 	//font-family: "Janson SSI", "Baskerville", "Garamond", serif;
 	color: #000000;
 	background-color:  #FFFFFF;
-	//text-align: center;
+	text-align: center;
 }
 
 .title {
@@ -104,8 +104,6 @@ body {
 	width: 30.5%;
 	margin-left: auto;
 	margin-right: auto;
-
-2
 }
 
 .certtitle {
@@ -131,9 +129,9 @@ body {
     margin-bottom: -.15em;
 }
 
-.certblock {
+.certleft {
 	font-size: small;
-	text-align: justify;
+	text-align: left;
 }
 
 .certfoot {
@@ -149,6 +147,21 @@ body {
 	table-layout: auto;
 	border-collapse: collapse;
 	vertical-align: text-bottom;
+}
+
+.ratiftable {
+	//border: none;
+	//table-layout: fixed;
+	//border-collapse: collapse;
+	width: 34%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ratifbody {
+	text-align: justify;
+	//text-justify: inter-word;
+	font-size: 1em;
 }
 
 .rubric {
