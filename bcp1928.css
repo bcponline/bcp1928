@@ -69,7 +69,7 @@ body {
 	font-size: 8pt;
 }
 
-.navcap {
+.tocnavcap {
 	font-size: 9pt;
 }
 
@@ -153,7 +153,7 @@ body {
 	//border: none;
 	//table-layout: fixed;
 	//border-collapse: collapse;
-	width: 25%;
+	width: 30%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -167,6 +167,17 @@ body {
 	text-align: justify;
 	font-size: 1em;
 }
+
+.erratabody {
+	text-align: left;
+	font-size: small;
+}
+
+.erratacap {
+	font-size: 1.2em;
+}
+
+
 
 .rubric {
 	font-size: small;
