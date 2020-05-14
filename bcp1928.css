@@ -153,14 +153,18 @@ body {
 	//border: none;
 	//table-layout: fixed;
 	//border-collapse: collapse;
-	width: 34%;
+	width: 25%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+.ratifbodycaps {
+	text-align: justify;
+	font-size: .8em;
+}
+
 .ratifbody {
 	text-align: justify;
-	//text-justify: inter-word;
 	font-size: 1em;
 }
 
