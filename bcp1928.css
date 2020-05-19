@@ -168,6 +168,13 @@ body {
 	font-size: 1em;
 }
 
+.preface {
+	width: 35%;
+	text-align: justify;
+	font-style: italic;
+	font-size: small;
+}
+
 .erratabody {
 	text-align: left;
 	font-size: small;
