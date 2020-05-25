@@ -160,17 +160,26 @@ body {
 
 .ratifbodycaps {
 	text-align: justify;
-	font-size: .8em;
+	font-size: .75em;
 }
 
 .ratifbody {
 	text-align: justify;
-	font-size: 1em;
+	font-size: .8em;
 }
 
 .preface {
-	width: 35%;
+	width: 39%;
 	text-align: justify;
+	//text-align-last: justify;
+	font-style: italic;
+	font-size: small;
+}
+
+.prefacelast {
+	width: 39%;
+	text-align: justify;
+	text-align-last: justify;
 	font-style: italic;
 	font-size: small;
 }
@@ -183,6 +192,28 @@ body {
 .erratacap {
 	font-size: 1.2em;
 }
+
+.leftfoot {
+	text-align: left;
+}
+
+.rightfoot {
+	text-align: right;
+}
+
+.bodytable {
+	//border: none;
+	//table-layout: fixed;
+	//border-collapse: collapse;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
 
 
 
