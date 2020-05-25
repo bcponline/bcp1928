@@ -101,7 +101,7 @@ body {
 	//border: none;
 	//table-layout: fixed;
 	//border-collapse: collapse;
-	width: 30.5%;
+	width: 27%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -210,6 +210,13 @@ body {
 	margin-right: auto;
 }
 
+.gentext {
+	width: 39%;
+	text-align: justify;
+	//text-align-last: justify;
+	font-style: italic;
+	font-size: small;
+}
 
 
 
